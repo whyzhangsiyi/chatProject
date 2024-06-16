@@ -1,0 +1,3 @@
+/home/ziggy/workspace/chatProject/build/CMakeFiles/edit_cache.dir
+/home/ziggy/workspace/chatProject/build/CMakeFiles/rebuild_cache.dir
+/home/ziggy/workspace/chatProject/build/CMakeFiles/chatServer.dir

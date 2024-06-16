@@ -1,0 +1,23 @@
+# ninja log v5
+2	1812	1711658301135459638	CMakeFiles/chatServer.dir/src/DAO/userModel.cpp.o	c5edf9d18c726265
+2534	6299	1711658171548597413	CMakeFiles/chatServer.dir/src/DAO/user.cpp.o	ff6a5564aa51dab5
+4	4150	1711658169400622720	CMakeFiles/chatServer.dir/src/DB/jdbc.cpp.o	e8926ed060f43246
+2	6072	1711658171320600100	CMakeFiles/chatServer.dir/src/server/chatService.cpp.o	245c942c93f734f0
+4	4544	1711658169796618054	CMakeFiles/chatServer.dir/src/DAO/friendModel.cpp.o	7015536dc59e8215
+1097	1326	1711031847040136092	chatServer	1670e237abb7056c
+2	6470	1711658171716595434	CMakeFiles/chatServer.dir/src/server/chatServer.cpp.o	6dfc9bb85d71a582
+0	52	1711986489795792247	build.ninja	726a6939286fbe47
+1812	2277	1711658301595454410	../bin/chatServer	62e24974349cf769
+3	2534	1711658167784641760	CMakeFiles/chatServer.dir/src/server/main.cpp.o	8d3edd019c3cff23
+7	4702	1711658169952616217	CMakeFiles/chatServer.dir/src/DAO/oneChatModel.cpp.o	525827182eee30d6
+3	2115	1711986502207889355	CMakeFiles/chatServer.dir/src/server/main.cpp.o	833c55303788d18d
+4	4489	1711986504575907896	CMakeFiles/chatServer.dir/src/DB/jdbc.cpp.o	7a2aa50e609d5567
+7	4524	1711986504615908211	CMakeFiles/chatServer.dir/src/DAO/oneChatModel.cpp.o	37c62fd06621f030
+5	5347	1711986505439914669	CMakeFiles/chatServer.dir/src/DAO/friendModel.cpp.o	756ec66bac6cf33c
+2115	6674	1711986506763925049	CMakeFiles/chatServer.dir/src/DAO/user.cpp.o	6d9e7b85fc8ab980
+2	7172	1711986507259928934	CMakeFiles/chatServer.dir/src/server/chatServer.cpp.o	24af127d8404d3da
+3	7442	1711986507531931064	CMakeFiles/chatServer.dir/src/server/chatService.cpp.o	8496d2c96c4e6f91
+4489	7934	1711986508027934951	CMakeFiles/chatServer.dir/src/DAO/userModel.cpp.o	5e6bc57641c6028e
+7934	8431	1711986508519938803	../bin/chatServer	b468dc26525d70c9
+2	431	1711986626024761435	../bin/chatServer	b468dc26525d70c9
+1	18	1713246396944479851	build.ninja	3643483ad8b06b6b

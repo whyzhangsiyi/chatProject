@@ -1,0 +1,52 @@
+INSERT INTO AllGroup (id, groupname, groupdesc)
+VALUES (
+    id:int,
+    'groupname:varchar',
+    'groupdesc:varchar'
+  );
+
+
+对于nginx 做的tcp负载均衡,监听在6000端口,代理的服务器程序端口为6001,6002 
+服务器程序应该以6001,6002端口启动,客户端应该登录在系统的6000端口以nginx做代理
+
+{"msgType":3,"accout":"202134236","name":"ddasd","password":"1234ffdas56"}
+
+
+
+{"msgType":1,"accout":"202134236","password":"1234ffdas56"}
+//登录请求
+
+
+
+{"msgType":LOGIN_RES,"errorType":0,"name":"202119875236"}
+
+
+   //登录回复
+
+  //添加好友请求
+
+  {"msgType":"inviter":"","reciver":""}
+
+
+
+telnet 192.168.31.175 23230
+
+
+注册
+登录
+退出登录
+加好友
+删好友
+私聊
+群聊
+
+离线消息
+
+
+
+
+UPDATE chat.user_t SET accout = '202111701232', name = '好e鸭', password = '123456', state = 'offline' WHERE id = 1;
+UPDATE chat.user_t SET accout = '202111701236', name = '32鸭', password = '123456', state = 'offline' WHERE id = 2;
+UPDATE chat.user_t SET accout = '2021117015236', name = '322鸭', password = '123456', state = 'offline' WHERE id = 3;
+UPDATE chat.user_t SET accout = '202111733015236', name = '322r鸭', password = '123456', state = 'offline' WHERE id = 6;
+UPDATE chat.user_t SET accout = '202173015236', name = '355鸭', password = '123456', state = 'offline' WHERE id = 7;
